@@ -1,14 +1,16 @@
-# assynu_pregnancytest
+# OVERVIEWW
 Basic Fivem ESX resource witch adds pregnancy tests to your fivem serwer
 
 **!!!ONLY POLISH lANGUAGE!!!**
 
-# Dependencies
+# DEPENDENCIES
 You need to have es_extended v1 (https://github.com/esx-framework/es_extended/tree/v1-final)
 
-# How to install
+# HOW TO INSTALL
 1. Unpack resource
-2. Move it to your **resources** folder
-3. Throw .sql file to you database
-4. Start server
-5. Done
+2. Delete '-master' from folder name
+3. Add **ensure assynu_pregnancytest** to your server.cfg
+4. Move it to your **resources** folder
+5. Throw .sql file to you database
+6. Start server
+7. Done
