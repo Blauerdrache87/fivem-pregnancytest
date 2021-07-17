@@ -14,3 +14,7 @@ You need to have es_extended v1 (https://github.com/esx-framework/es_extended/tr
 5. Throw .sql file to you database
 6. Start server
 7. Done
+
+
+# Discord
+If you like it, please join my discord server! https://discord.gg/mV7zEkeF87
