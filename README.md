@@ -17,4 +17,4 @@ You need to have es_extended v1 (https://github.com/esx-framework/es_extended/tr
 
 
 # Discord
-If you like it, please join my discord server! https://discord.gg/mV7zEkeF87
+If you like it, please join my discord server! https://discord.gg/m3dDCMd7kJ
